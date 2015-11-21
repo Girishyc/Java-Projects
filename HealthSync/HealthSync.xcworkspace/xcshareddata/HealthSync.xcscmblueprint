@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F110C7CA0E083B7C2E9EE09F84BA223174CB0D1A",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E6559465985E6CF3C48D1FC9256C097412A38EA9",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A65BCAA9B7A77500BBF95593800C3F1B9D215F5E" : 0,
     "F110C7CA0E083B7C2E9EE09F84BA223174CB0D1A" : 0,
-    "A65BCAA9B7A77500BBF95593800C3F1B9D215F5E" : 0
+    "E6559465985E6CF3C48D1FC9256C097412A38EA9" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9CCBE517-6D47-427D-B000-3E5642518C0B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A65BCAA9B7A77500BBF95593800C3F1B9D215F5E" : "OAuthSwift\/",
     "F110C7CA0E083B7C2E9EE09F84BA223174CB0D1A" : "Health-Sync\/",
-    "A65BCAA9B7A77500BBF95593800C3F1B9D215F5E" : "OAuthSwift\/"
+    "E6559465985E6CF3C48D1FC9256C097412A38EA9" : "Projects\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "HealthSync",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dongri\/OAuthSwift.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A65BCAA9B7A77500BBF95593800C3F1B9D215F5E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Girishyc\/Projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E6559465985E6CF3C48D1FC9256C097412A38EA9"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/simransdsu\/Health-Sync.git",
